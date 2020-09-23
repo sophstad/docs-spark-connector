@@ -4,6 +4,8 @@ MongoDB Connector for Spark
 
 .. default-domain:: mongodb
 
+Test :highlight-red:`red highlight`, :highlight-yellow:`yellow highlight`, :highlight-green:`green highlight`, and :highlight-blue:`blue highlight`.
+
 The `MongoDB Connector for Spark
 <https://www.mongodb.com/products/spark-connector>`_ provides
 integration between MongoDB and Apache Spark.
